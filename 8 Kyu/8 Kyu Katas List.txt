@@ -1,1 +1,53 @@
 How good are you really?
+Training JS #7: if..else and ternary operator
+Invert values
+Convert to Binary
+Sum of differences in array
+Calculate BMI
+Parse nice int from char problem
+Function 2 - squaring an argument
+altERnaTIng cAsE <=> ALTerNAtiNG CaSe
+Grasshopper - Debug sayHello
+Keep up the hoop
+Find Maximum and Minimum Values of a List
+Grasshopper - Messi Goals
+Are You Playing Banjo?
+Opposites Attract
+Grasshopper - Basic Function Fixer
+Abbreviate a Two Word Name
+Count the Monkeys!
+You Can't Code Under Pressure #1
+Count Odd Numbers below n
+Century From Year
+Get the mean of an array
+Twice a
+Beginner - Lost Without a Maps old
+Welcome!
+Classic Hello World
+Remove exclamation marks
+Simple multiplication
+Keep Hydrated!
+Convert a String to a Number!
+Function 1 - hello world
+Even or Odd
+Vowel remover
+Sum Arrays
+Total amount of points
+Counting sheep...
+Return Negative
+Return the day
+MakeUpperCase
+String repeat
+Array plus array
+Grasshopper - Messi goals function
+Remove First and Last Character
+If you can't sleep, just count sheep!!
+Is n divisible by x and y?
+Returning Strings
+Reversed Strings
+Thinkful - Logic Drills: Traffic light
+Count of positives / sum of negatives
+Grasshopper - Summation
+Remove String Spaces
+The Feast of Many Beasts
+Multiply
