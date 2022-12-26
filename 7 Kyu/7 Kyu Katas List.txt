@@ -1,0 +1,38 @@
+Square Every Digit
+Growth of a Population
+Number of People in the Bus
+Isograms
+Build a square
+Vowel Count
+Dot Calculator
+Tidy Number (Special Numbers Series #9)
+Stanton measure
+Predict your age!
+Robinson Crusoe
+Sum of odd numbers
+Shortest Word
+Exes and Ohs
+All unique
+Descending Order
+Count the Digit
+Are the numbers in order?
+Highest and Lowest
+Reverse words
+Complementary DNA
+Sum of the first nth term of Series
+Sorted? yes? no? how?
+Speed Control
+Changing letters
+Testing 1-2-3
+Two fighters, one winner.
+Disemvowel Trolls
+Going to the cinema
+List Filtering
+V A P O R C O D E
+Filter the number
+Don't give me five!
+shorter concat [reverse longer]
+Kooka-Counter
+Simple string characters
+Jaden Casing Strings
+Anagram Detection
