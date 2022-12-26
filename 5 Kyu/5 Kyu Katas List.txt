@@ -1,0 +1,15 @@
+Maximum subarray sum
+Greed is Good
+Directions Reduction
+Simple Pig Latin
+Gap in Primes
+RGB To Hex Conversion
+Scramblies
+How Many Numbers? II
+Last digit of a large number
+String incrementer
+Evaluate a postfix expression
+int32 to IPv4
+Count IP Addresses
+Human Readable Time
+Not very secure
