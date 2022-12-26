@@ -20,7 +20,7 @@ You Can't Code Under Pressure #1
 Count Odd Numbers below n
 Century From Year
 Get the mean of an array
-Twice a
+Twice as old
 Beginner - Lost Without a Maps old
 Welcome!
 Classic Hello World
@@ -51,3 +51,5 @@ Grasshopper - Summation
 Remove String Spaces
 The Feast of Many Beasts
 Multiply
+Calculate average
+Will you make it?
