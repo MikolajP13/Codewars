@@ -1,0 +1,50 @@
+Prize Draw
+Who won the election?
+Good vs Evil
+Encrypt this!
+Meeting
+Two Sum
+Array.diff
+Sum of Digits / Digital Root
+Give me a Diamond
+Data Reverse
+English beggars
+What century is it?
+Rainfall
+Format words into a sentence
+Numericals of a String
+Is a number prime?
+extract file name
+Valid Phone Number
+CamelCase Method
+Easy Balance Checking
+Counting Duplicates
+Equal Sides Of An Array
+Consecutive strings
+Detect Pangram
+Decode the Morse code
+Break camelCase
+Convert string to camel case
+Backspaces in string
+Highest Scoring Word
+Find the unique number
+Build Tower
+Your order, please
+Create Phone Number
+Split Strings
+Help the bookseller !
+Integer depth
+Make the Deadfish Swim
+Multiples of 3 or 5
+Find the missing letter
+Duplicate Encoder
+Ascend, Descend, Repeat?
+Count the smiley faces!
+Roman Numerals Encoder
+Which are in?
+Stop gninnipS My sdroW!
+Mexican Wave
+Bouncing Balls
+Who likes it?
+Find the odd int
+Bit Counting
