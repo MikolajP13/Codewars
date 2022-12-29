@@ -48,3 +48,5 @@ Bouncing Balls
 Who likes it?
 Find the odd int
 Bit Counting
+Simple frequency sort
+Find The Parity Outlier
