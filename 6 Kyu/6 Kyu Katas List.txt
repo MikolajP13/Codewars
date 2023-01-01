@@ -54,3 +54,5 @@ PhoneWords
 Are they the "same"?
 Sums of Parts
 Write Number in Expanded Form
+A+B==123
+Validate Credit Card Number
