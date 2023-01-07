@@ -66,3 +66,4 @@ Reverse or rotate?
 Consonant value
 You are a Robot: Translating a Path
 Multiplication table
+Dashatize it
