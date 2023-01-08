@@ -68,3 +68,4 @@ You are a Robot: Translating a Path
 Multiplication table
 Dashatize it
 Word a10n (abbreviation)
+Triangle number check
