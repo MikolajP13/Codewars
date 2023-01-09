@@ -70,3 +70,4 @@ Dashatize it
 Word a10n (abbreviation)
 Triangle number check
 Remove the parentheses
+Sum consecutives
