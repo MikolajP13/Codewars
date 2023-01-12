@@ -72,3 +72,4 @@ Triangle number check
 Remove the parentheses
 Sum consecutives
 Playing with passphrases
+Binary to Text (ASCII) Conversion
