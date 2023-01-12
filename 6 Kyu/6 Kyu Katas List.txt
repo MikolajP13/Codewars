@@ -74,3 +74,4 @@ Sum consecutives
 Playing with passphrases
 Binary to Text (ASCII) Conversion
 Matrix Addition
+Statistics for an Athletic Association
