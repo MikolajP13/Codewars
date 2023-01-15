@@ -76,3 +76,4 @@ Binary to Text (ASCII) Conversion
 Matrix Addition
 Statistics for an Athletic Association
 Backwards Read Primes
+New Cashier Does Not Know About Space or Shift
