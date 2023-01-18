@@ -80,3 +80,4 @@ New Cashier Does Not Know About Space or Shift
 Length of missing array
 Difference of 2
 Character with longest consecutive repetition
+Calculate String Rotation
