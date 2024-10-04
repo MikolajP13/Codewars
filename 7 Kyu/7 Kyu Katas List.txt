@@ -36,3 +36,7 @@ Kooka-Counter
 Simple string characters
 Jaden Casing Strings
 Anagram Detection
+Get the Middle Character
+You're a square!
+Mumbling
+
