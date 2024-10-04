@@ -81,3 +81,5 @@ Length of missing array
 Difference of 2
 Character with longest consecutive repetition
 Calculate String Rotation
+What's A Name In?
+Fruit Machine
