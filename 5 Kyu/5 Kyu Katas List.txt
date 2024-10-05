@@ -13,3 +13,4 @@ int32 to IPv4
 Count IP Addresses
 Human Readable Time
 Not very secure
+Primes in numbers
