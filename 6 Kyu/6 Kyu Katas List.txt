@@ -84,3 +84,4 @@ Calculate String Rotation
 What's A Name In?
 Fruit Machine
 Take a Ten Minutes Walk
+Delete occurrences of an element if it occurs more than n times
