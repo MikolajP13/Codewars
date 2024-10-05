@@ -39,4 +39,4 @@ Anagram Detection
 Get the Middle Character
 You're a square!
 Mumbling
-
+Maskify
