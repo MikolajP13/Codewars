@@ -83,3 +83,4 @@ Character with longest consecutive repetition
 Calculate String Rotation
 What's A Name In?
 Fruit Machine
+Take a Ten Minutes Walk
