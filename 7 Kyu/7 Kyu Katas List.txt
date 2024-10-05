@@ -40,3 +40,4 @@ Get the Middle Character
 You're a square!
 Mumbling
 Maskify
+Sum of two lowest positive integers
