@@ -43,3 +43,4 @@ Maskify
 Sum of two lowest positive integers
 Beginner Series #3 Sum of Numbers
 String ends with?
+Binary Addition
