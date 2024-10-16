@@ -47,3 +47,4 @@ Binary Addition
 Ones and Zeros
 Printer Errors
 Odd or Even?
+Remove the minimum
