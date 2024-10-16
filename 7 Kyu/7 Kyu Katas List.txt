@@ -45,3 +45,4 @@ Beginner Series #3 Sum of Numbers
 String ends with?
 Binary Addition
 Ones and Zeros
+Printer Errors
