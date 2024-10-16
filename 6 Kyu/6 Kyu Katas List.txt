@@ -88,3 +88,4 @@ Delete occurrences of an element if it occurs more than n times
 Simple Encryption #1 - Alternating Split
 String array duplicates
 Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
+All Star Code Challenge #15
